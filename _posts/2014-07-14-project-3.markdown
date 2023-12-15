@@ -4,8 +4,8 @@ modal-id: 5
 date: 2014-07-14
 img: safe.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: October 2023
+# client: Start Bootstrap
+category: IoT/Web Project
+description: This is a tentative project which I have drafted the documentation and implementation plans for. In essence, WasedaLine is a queue tracker built for Waseda University in order to track queue times for cafeterias and various events across university. I hope this project will allow students to better manage their time and get around university.
 ---

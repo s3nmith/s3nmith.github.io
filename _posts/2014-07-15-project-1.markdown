@@ -4,8 +4,8 @@ modal-id: 1
 date: 2023-04-01
 img: game.png
 alt: image-alt
-project-date: April 2023
+project-date: February 2023
 # client: Start Bootstrap
 category: App Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: This project got my team to the Top 100 for Google's Solution Challenge in 2023. We were one of the two teams from Japan that achieved this. This app was made using Flutter, TensorFlow, and Google Maps API. This app aims to ease the process of settling into Japan by allowing user's to use and AI-powered app to help them sort their garbage correctly depending on the ward in Tokyo they are in! Currently, we are aiming to take this project further with collaborations. We hope to have the app released in the App Store and Google Play Store by July of 2024.
 ---

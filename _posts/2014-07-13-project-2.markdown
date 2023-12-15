@@ -4,8 +4,8 @@ modal-id: 6
 date: 2014-07-15
 img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: April 2023
+client:
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I was selected to be part of a small team of developers to develop the official website of the Google Developers Student Club for Waseda. I developed the website with a colleague. We used the Next.js framework and deployed the website using Vercel. Later, I had the privellege of becoming the lead of the project and we developed a second version of the website with more sophisticated backedn functions with Google Firebase and also a multilingual support for the website.
 ---
